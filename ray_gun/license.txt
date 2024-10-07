@@ -1,0 +1,11 @@
+Model Information:
+* title:	RaY Gun
+* source:	https://sketchfab.com/3d-models/ray-gun-c4561cddc18d48e4bad8bfc8b63dd0b9
+* author:	mattbutler8958 (https://sketchfab.com/mattbutler8958)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RaY Gun" (https://sketchfab.com/3d-models/ray-gun-c4561cddc18d48e4bad8bfc8b63dd0b9) by mattbutler8958 (https://sketchfab.com/mattbutler8958) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
